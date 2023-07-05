@@ -1,4 +1,4 @@
-# E-Commerce_API
+# E-commerce_API
 
 
 🔗Hosted link = https://e-commerce-api-wvk0.onrender.com/products
